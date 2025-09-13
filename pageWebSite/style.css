@@ -5,11 +5,11 @@ body {
 /* Navigation Bar */
 
 #home {
-    background-color: #7600bc;
+    background-color:  #7600bc;
     padding-bottom: 1cm;
-    margin-left: -1cm;
-    margin-right: -1cm;
-    margin-top: -1cm;
+    margin-left:-1cm;
+    margin-right:-1cm;
+    margin-top:-1cm;
     padding-top: 2cm;
     padding-bottom: 2cm;
     height: 5mm;
@@ -20,7 +20,7 @@ body {
     margin: 10px;
     padding: 20px;
     font-size: 20px;
-    text-decoration: none;
+    text-decoration:none;
 }
 
 .topmenu:hover {
@@ -91,11 +91,10 @@ h2 {
     align-items: center;
 }
 
-/* About Me */
-
-.about-me {
-    display: flex;
-    align-items: center;
+#about-me h1 {
+    font-size: 65px;
+    margin-top: 90px;
+    color: #7600bc;
 }
 
 #about-me p {
