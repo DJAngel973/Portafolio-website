@@ -3,8 +3,8 @@ node_modules/
 package-lock.json
 
 # Build outputs
-dist/
-build/
+/dist/
+/build/
 
 # OS generated files
 .DS_Store      # macOS
@@ -21,8 +21,8 @@ ehthumbs.db
 .atom/
 
 # Log files
-*.log
 logs/
+*.log
 
 # Temporary files
 *.tmp
@@ -38,3 +38,17 @@ logs/
 .env
 .env.local
 .env.development.local
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+
+# HTML files
+*.html
+
+# CSS files
+*.css
+
+# JavaScript files
+*.js
