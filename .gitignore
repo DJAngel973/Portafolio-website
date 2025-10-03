@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# Build outputs
+dist/
+build/
+
+# OS generated files
+.DS_Store      # macOS
+Thumbs.db      # Windows
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# IDE and Editor files
+.vscode/       # Visual Studio Code
+.idea/         # IntelliJ/WebStorm
+*.sublime-workspace
+*.sublime-project
+.atom/
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Cache files
+.cache/
+*.cache
+
+# Environment files
+.env
+.env.local
+.env.development.local
